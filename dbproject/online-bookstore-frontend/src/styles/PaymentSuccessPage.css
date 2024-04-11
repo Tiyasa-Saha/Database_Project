@@ -1,0 +1,23 @@
+.payment-success {
+    text-align: center;
+}
+
+.success-icon {
+    color: #28a745; /* Green color for success */
+    font-size: 5rem;
+    margin-bottom: 20px;
+}
+
+.success-heading {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.success-message {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.thank-you-message {
+    font-size: 1.2rem;
+}

@@ -1,0 +1,565 @@
+[
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "imageUrl": "https://example-image.com/lotr_cover.jpg", 
+        "description": "An epic quest to destroy the One Ring and defeat the Dark Lord Sauron.",
+        "pageCount": 1200,
+        "isbn": "978-0547928227",
+        "publisher": "Houghton Mifflin Harcourt",
+        "publicationYear": 1954
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "imageUrl": "https://example-image.com/pride_prejudice_cover.jpg", 
+        "description": "A witty social commentary on love, class, and manners in 19th-century England.",
+        "pageCount": 350,
+        "isbn": "978-0141439518",
+        "publisher": "Penguin Classics",
+        "publicationYear": 1813 
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "imageUrl": "https://example-image.com/1984_cover.jpg", 
+        "description": "A chilling vision of a totalitarian state where thought and individuality are suppressed.",
+        "pageCount": 328,
+        "isbn": "978-0451524935",
+        "publisher": "Signet Classics",
+        "publicationYear": 1949
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Classic, Southern Gothic",
+        "imageUrl": "https://example-image.com/mockingbird_cover.jpg", 
+        "description": "A coming-of-age story exploring themes of racial injustice and morality in the American South.",
+        "pageCount": 384,
+        "isbn": "978-0446310789",
+        "publisher": "Grand Central Publishing",
+        "publicationYear": 1960
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Philosophical Fiction",
+        "imageUrl": "https://example-image.com/alchemist_cover.jpg", 
+        "description": "An allegorical fable about a shepherd boy's journey to fulfill his Personal Legend.",
+        "pageCount": 197,
+        "isbn": "978-0062502176",
+        "publisher": "HarperCollins",
+        "publicationYear": 1988 
+    },
+    {
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "Dystopian, Young Adult",
+        "imageUrl": "https://example-image.com/hunger_games_cover.jpg",
+        "description": "In a dystopian future, teenagers fight to the death in a televised event.",
+        "pageCount": 374,
+        "isbn": "978-0439023481",
+        "publisher": "Scholastic Press",
+        "publicationYear": 2008  
+    },
+    {
+        "title": "The Very Hungry Caterpillar",
+        "author": "Eric Carle",
+        "genre": "Children's Literature",
+        "imageUrl": "https://example-image.com/caterpillar_cover.jpg",
+        "description": "A beloved board book following a caterpillar's journey of eating and transformation.",
+        "pageCount": 26,
+        "isbn": "978-0399226908",
+        "publisher": "Philomel Books",
+        "publicationYear": 1969 
+    },
+    {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "genre": "Psychological Thriller",
+        "imageUrl": "https://example-image.com/gone_girl_cover.jpg",
+        "description": "A twisty tale of a missing wife and a husband under suspicion.",
+        "pageCount": 432,
+        "isbn": "978-0307588371",
+        "publisher": "Broadway Books",
+        "publicationYear": 2012 
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "imageUrl": "https://example-image.com/davinci_code_cover.jpg",
+        "description": "A symbologist races to solve a murder and uncover a centuries-old conspiracy.",
+        "pageCount": 489,
+        "isbn": "978-0307474278",
+        "publisher": "Anchor Books",
+        "publicationYear": 2003 
+    },
+    {
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "genre": "Science Fiction",
+        "imageUrl": "https://example-image.com/martian_cover.jpg",
+        "description": "An astronaut stranded on Mars must use his ingenuity to survive.",
+        "pageCount": 384,
+        "isbn": "978-0804139021",
+        "publisher": "Crown Publishers",
+        "publicationYear": 2011 
+    } ,
+    
+        {
+            "title": "Frankenstein",
+            "author": "Mary Shelley",
+            "genre": "Gothic, Science Fiction",
+            "imageUrl": "https://example-image.com/frankenstein_cover.jpg",
+            "description": "A scientist creates a monstrous creature, exploring the consequences of unchecked ambition.",
+            "pageCount": 280,
+            "isbn": "978-0141439471",
+            "publisher": "Penguin Classics",
+            "publicationYear": 1818 
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Classic, Coming-of-Age",
+            "imageUrl": "https://example-image.com/catcher_in_the_rye_cover.jpg",
+            "description": "A disillusioned teenager narrates his alienation and angst in post-WWII America.",
+            "pageCount": 277,
+            "isbn": "978-0316769488",
+            "publisher": "Little, Brown and Company",
+            "publicationYear": 1951
+        },
+        {
+            "title": "The Shining",
+            "author": "Stephen King",
+            "genre": "Horror",
+            "imageUrl": "https://example-image.com/the_shining_cover.jpg",
+            "description": "A family's isolation at a haunted hotel descends into madness.",
+            "pageCount": 447,
+            "isbn": "978-0385121675",
+            "publisher": "Doubleday",
+            "publicationYear": 1977
+        },
+        {
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "J.K. Rowling",
+            "genre": "Fantasy, Young Adult",
+            "imageUrl": "https://example-image.com/sorcerers_stone_cover.jpg",
+            "description": "A young boy discovers he's a wizard and begins his magical education.",
+            "pageCount": 309,
+            "isbn": "978-0590353427",
+            "publisher": "Scholastic Press",
+            "publicationYear": 1997
+        }, 
+        {
+            "title": "Sapiens: A Brief History of Humankind", 
+            "author": "Yuval Noah Harari",
+            "genre": "Nonfiction, History",
+            "imageUrl": "https://example-image.com/sapiens_cover.jpg",
+            "description": "A sweeping exploration of human history from the Stone Age to the present.",
+            "pageCount": 464,
+            "isbn": "978-0062316097",
+            "publisher": "HarperCollins",
+            "publicationYear": 2011
+        },
+        {
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "genre": "Classic, Coming-of-Age",
+            "imageUrl": "https://example-image.com/little_women_cover.jpg",
+            "description": "The lives and loves of the March sisters during the American Civil War.",
+            "pageCount": 528,
+            "isbn": "978-0147514015",
+            "publisher": "Puffin Books",
+            "publicationYear": 1868
+        },
+        {
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "imageUrl": "https://example-image.com/the_hobbit_cover.jpg",
+            "description": "A home-loving hobbit embarks on an unexpected adventure with dwarves.",
+            "pageCount": 310,
+            "isbn": "978-0547928210",
+            "publisher": "Houghton Mifflin Harcourt",
+            "publicationYear": 1937 
+        },
+        {
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "genre": "Historical Fiction",
+            "imageUrl": "https://example-image.com/book_thief_cover.jpg",
+            "description": "A young girl finds solace in stealing books during Nazi Germany.",
+            "pageCount": 584,
+            "isbn": "978-0375842207",
+            "publisher": "Knopf Books for Young Readers",
+            "publicationYear": 2005
+        },
+        {
+            "title": "And Then There Were None",
+            "author": "Agatha Christie",
+            "genre": "Mystery",
+            "imageUrl": "https://example-image.com/and_then_there_were_none_cover.jpg",
+            "description": "Guests on an isolated island are murdered one by one.",
+            "pageCount": 272,
+            "isbn": "978-0062073488",
+            "publisher": "William Morrow Paperbacks",
+            "publicationYear": 1939
+        },
+        {
+            "title": "The Secret Garden",
+            "author": "Frances Hodgson Burnett",
+            "genre": "Children's Literature, Classic",
+            "imageUrl": "https://example-image.com/secret_garden_cover.jpg",
+            "description": "A spoiled girl discovers a hidden garden and the power of friendship.",
+            "pageCount": 331,
+            "isbn": "978-0141387701",
+            "publisher": "Puffin Books",
+            "publicationYear": 1911
+        },
+
+
+
+
+        {
+            "title": "Animal Farm",
+            "author": "George Orwell",
+            "genre": "Allegory, Satire",
+            "imageUrl": "https://example-image.com/animal_farm_cover.jpg",
+            "description": "A fable about farm animals who revolt against their human farmer, exploring themes of power and corruption.",
+            "pageCount": 140,
+            "isbn": "978-0451526342",
+            "publisher": "Signet Classics",
+            "publicationYear": 1945
+        },
+        {
+            "title": "The Adventures of Sherlock Holmes",
+            "author": "Arthur Conan Doyle",
+            "genre": "Mystery, Detective Fiction",
+            "imageUrl": "https://example-image.com/sherlock_holmes_cover.jpg",
+            "description": "A collection of short stories featuring the iconic detective Sherlock Holmes and his partner, Dr. Watson.",
+            "pageCount": 320, 
+            "isbn": "978-0141441377",
+            "publisher": "Penguin Classics",
+            "publicationYear": 1892
+        },
+        {
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "Dystopian, Science Fiction",
+            "imageUrl": "https://example-image.com/brave_new_world_cover.jpg",
+            "description": "A vision of a future society where individuality and freedom are suppressed in favor of control and conformity.",
+            "pageCount": 288,
+            "isbn": "978-0060929879",
+            "publisher": "Harper Perennial Modern Classics",
+            "publicationYear": 1932 
+        },
+        {
+            "title": "The Outsiders",
+            "author": "S.E. Hinton",
+            "genre": "Young Adult, Coming-of-Age",
+            "imageUrl": "https://example-image.com/the_outsiders_cover.jpg",
+            "description": "A story about the rivalry between two teen gangs in 1960s Oklahoma.",
+            "pageCount": 192,
+            "isbn": "978-0140385724",
+            "publisher": "Speak",
+            "publicationYear": 1967 
+        },
+        {
+            "title": "The Color Purple",
+            "author": "Alice Walker",
+            "genre": "Historical Fiction, Epistolary",
+            "imageUrl": "https://example-image.com/the_color_purple_cover.jpg",
+            "description": "A powerful story of resilience and redemption through the letters of African American women in the rural South.",
+            "pageCount": 304,
+            "isbn": "978-0156031895",
+            "publisher": "Harcourt Brace Jovanovich",
+            "publicationYear": 1982
+        },
+        {
+            "title": "The Name of the Wind",
+            "author": "Patrick Rothfuss",
+            "genre": "Fantasy",
+            "imageUrl": "https://example-image.com/name_of_the_wind_cover.jpg",
+            "description": "The first book in the Kingkiller Chronicle, chronicling the adventures of a legendary musician and magician.",
+            "pageCount": 662,
+            "isbn": "978-0756404079",
+            "publisher": "DAW Books",
+            "publicationYear": 2007 
+        },
+        {
+            "title": "The Girl with the Dragon Tattoo",
+            "author": "Stieg Larsson",
+            "genre": "Mystery, Thriller",
+            "imageUrl": "https://example-image.com/dragon_tattoo_cover.jpg",
+            "description": "A disgraced journalist and a young female hacker investigate the disappearance of a wealthy man's niece.",
+            "pageCount": 598,
+            "isbn": "978-0307454546",
+            "publisher": "Vintage Crime/Black Lizard",
+            "publicationYear": 2005 
+        },
+        {
+            "title": "The Hitchhiker's Guide to the Galaxy",
+            "author": "Douglas Adams",
+            "genre": "Science Fiction, Comedy",
+            "imageUrl": "https://example-image.com/hitchhikers_guide_cover.jpg",
+            "description": "A hilarious journey through space after Earth is demolished.",
+            "pageCount": 224,
+            "isbn": "978-0345391803",
+            "publisher": "Del Rey Books",
+            "publicationYear": 1979
+        },
+        {
+            "title": "The Curious Incident of the Dog in the Night-Time",
+            "author": "Mark Haddon",
+            "genre": "Mystery, Contemporary",
+            "imageUrl": "https://example-image.com/curious_incident_cover.jpg",
+            "description": "A mathematically gifted autistic boy investigates the death of a neighbor's dog.",
+            "pageCount": 240,
+            "isbn": "978-1400032716",
+            "publisher": "Vintage Books",
+            "publicationYear": 2003
+        },
+        {
+            "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+            "author": "C.S. Lewis",
+            "genre": "Fantasy, Children's Literature",
+            "imageUrl": "https://example-image.com/narnia_cover.jpg",
+            "description": "Four siblings discover a magical world through a wardrobe.",
+            "pageCount": 208,
+            "isbn": "978-0064471046",
+            "publisher": "HarperCollins",
+            "publicationYear": 1950
+        },
+
+        {
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "genre": "Dystopian, Science Fiction",
+            "imageUrl": "https://example-image.com/fahrenheit_451_cover.jpg", 
+            "description": "A chilling future where books are outlawed and 'firemen' burn any they find.",
+            "pageCount": 192,
+            "isbn": "978-0345342966",
+            "publisher": "Ballantine Books",
+            "publicationYear": 1953
+        },
+        {
+            "title": "The Handmaid's Tale",
+            "author": "Margaret Atwood",
+            "genre": "Dystopian, Feminist",
+            "imageUrl": "https://example-image.com/handmaids_tale_cover.jpg", 
+            "description": "A woman forced into reproductive servitude in a totalitarian theocracy.",
+            "pageCount": 384,
+            "isbn": "978-0385490818",
+            "publisher": "Anchor Books",
+            "publicationYear": 1985
+        },
+        {
+            "title": "Flowers for Algernon",
+            "author": "Daniel Keyes",
+            "genre": "Science Fiction",
+            "imageUrl": "https://example-image.com/flowers_for_algernon_cover.jpg", 
+            "description": "A man with low IQ undergoes an experimental surgery to increase his intelligence.",
+            "pageCount": 320,
+            "isbn": "978-0575083899",
+            "publisher": "Gollancz",
+            "publicationYear": 1966
+        },
+        {
+            "title": "The Help",
+            "author": "Kathryn Stockett",
+            "genre": "Historical Fiction",
+            "imageUrl": "https://example-image.com/the_help_cover.jpg", 
+            "description": "The lives of African American maids in 1960s Mississippi.",
+            "pageCount": 529,
+            "isbn": "978-0399155345",
+            "publisher": "Berkley Books",
+            "publicationYear": 2009
+        },
+        {
+            "title": "The Perks of Being a Wallflower",
+            "author": "Stephen Chbosky",
+            "genre": "Young Adult, Coming-of-Age",
+            "imageUrl": "https://example-image.com/perks_of_being_a_wallflower_cover.jpg",
+            "description": "An introverted teen navigates friendship, love, and mental health in the 1990s.",
+            "pageCount": 224,
+            "isbn": "978-0671027346",
+            "publisher": "MTV Books",
+            "publicationYear": 1999 
+        },
+        {
+            "title": "A Wrinkle in Time",
+            "author": "Madeleine L'Engle",
+            "genre": "Science Fiction, Fantasy, Young Adult",
+            "imageUrl": "https://example-image.com/wrinkle_in_time_cover.jpg", 
+            "description": "Children journey through space and time to rescue their missing father.",
+            "pageCount": 256,
+            "isbn": "978-0312367541",
+            "publisher": "Square Fish",
+            "publicationYear": 1962
+        },
+        {
+            "title": "The Hate U Give",
+            "author": "Angie Thomas",
+            "genre": "Young Adult, Contemporary",
+            "imageUrl": "https://example-image.com/the_hate_u_give_cover.jpg", 
+            "description": "A teen witnesses a police shooting of her unarmed friend and becomes an activist.",
+            "pageCount": 464,
+            "isbn": "978-0062498533",
+            "publisher": "Balzer + Bray",
+            "publicationYear": 2017
+        },
+        {
+            "title": "Born a Crime",
+            "author": "Trevor Noah",
+            "genre": "Nonfiction, Memoir, Comedy",
+            "imageUrl": "https://example-image.com/born_a_crime_cover.jpg", 
+            "description": "Trevor Noah's humorous and insightful memoir of growing up mixed-race in apartheid South Africa.",
+            "pageCount": 304,
+            "isbn": "978-0399588198",
+            "publisher": "Spiegel & Grau",
+            "publicationYear": 2016
+        },
+        {
+            "title": "The House on Mango Street",
+            "author": "Sandra Cisneros",
+            "genre": "Coming-of-Age, Fiction",
+            "imageUrl": "https://example-image.com/house_on_mango_street_cover.jpg", 
+            "description": "A series of vignettes exploring the life of a young Latina girl in Chicago.",
+            "pageCount": 112,
+            "isbn": "978-0679734772",
+            "publisher": "Vintage Books",
+            "publicationYear": 1984
+        },
+        {
+            "title": "The Princess Bride",
+            "author": "William Goldman",
+            "genre": "Fantasy, Romance, Comedy",
+            "imageUrl": "https://example-image.com/princess_bride_cover.jpg", 
+            "description": "A  fairytale adventure filled with swashbuckling, romance, and giants.",
+            "pageCount": 432,
+            "isbn": "978-0156035216",
+            "publisher": "Houghton Mifflin Harcourt",
+            "publicationYear": 1973
+        },
+
+        {
+            "title": "A Short History of Nearly Everything",
+            "author": "Bill Bryson",
+            "genre": "Nonfiction, Science",
+            "imageUrl": "https://example-image.com/short_history_of_nearly_everything_cover.jpg",
+            "description": "An entertaining journey through the world of science, from the Big Bang to the rise of civilization.",
+            "pageCount": 544, 
+            "isbn": "978-0767908184",
+            "publisher": "Broadway Books",
+            "publicationYear": 2003
+        },
+        {
+            "title": "Cosmos",
+            "author": "Carl Sagan",
+            "genre": "Nonfiction, Astronomy, Astrophysics",
+            "imageUrl": "https://example-image.com/cosmos_cover.jpg",
+            "description": "A classic exploration of the universe and our place within it.",
+            "pageCount": 365, 
+            "isbn": "978-0345539434",
+            "publisher": "Ballantine Books",
+            "publicationYear": 1980
+        },
+        {
+            "title": "Sapiens: A Brief History of Humankind",
+            "author": "Yuval Noah Harari",
+            "genre": "Nonfiction, History, Anthropology",
+            "imageUrl": "https://example-image.com/sapiens_cover.jpg",
+            "description": "Sweeping exploration of humankind, from our evolutionary past to potential futures.",
+            "pageCount": 443,
+            "isbn": "978-0062316097",
+            "publisher": "HarperCollins",
+            "publicationYear": 2011 
+        },
+        {
+            "title": "Thinking, Fast and Slow",
+            "author": "Daniel Kahneman",
+            "genre": "Nonfiction, Psychology, Behavioral Economics",
+            "imageUrl": "https://example-image.com/thinking_fast_and_slow_cover.jpg",
+            "description": "Dives into the two systems of our minds, explaining how intuition and logic shape our decisions.",
+            "pageCount": 512,
+            "isbn": "978-0374533557",
+            "publisher": "Farrar, Straus and Giroux",
+            "publicationYear": 2011
+        },
+        {
+            "title": "The Emperor of All Maladies: A Biography of Cancer",
+            "author": "Siddhartha Mukherjee",
+            "genre": "Nonfiction, Medicine, Science",
+            "imageUrl": "https://example-image.com/emperor_of_all_maladies_cover.jpg",
+            "description": "Pulitzer-Prize winning exploration of the history of cancer, scientific advancements, and the human toll.",
+            "pageCount": 571,
+            "isbn": "978-1439107959",
+            "publisher": "Scribner",
+            "publicationYear": 2010 
+        },
+        {
+            "title": "The Sixth Extinction: An Unnatural History",
+            "author": "Elizabeth Kolbert",
+            "genre": "Nonfiction, Environmental Science",
+            "imageUrl": "https://example-image.com/sixth_extinction_cover.jpg",
+            "description": "Investigates past mass extinctions and the current, human-driven biodiversity crisis.",
+            "pageCount": 336,
+            "isbn": "978-0805092998",
+            "publisher": "Picador",
+            "publicationYear": 2014 
+        },
+        {
+            "title": "Guns, Germs, and Steel",
+            "author": "Jared Diamond",
+            "genre": "Nonfiction, History, Geography",
+            "imageUrl": "https://example-image.com/guns_germs_and_steel_cover.jpg",
+            "description": "Analyzes how geography and environment shaped the unequal development of human societies.",
+            "pageCount": 528,
+            "isbn": "978-0393317558",
+            "publisher": "W.W. Norton & Company",
+            "publicationYear": 1997
+        },
+        { 
+            "title": "The Selfish Gene",
+            "author": "Richard Dawkins",
+            "genre": "Nonfiction, Evolution, Biology",
+            "imageUrl": "https://example-image.com/selfish_gene_cover.jpg",
+            "description": "Introduces the idea of genes as the driving force of evolution.",
+            "pageCount": 384,
+            "isbn": "978-0199291151",
+            "publisher": "Oxford University Press",
+            "publicationYear": 1976 
+        },
+        {
+            "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+            "author": "Susan Cain",
+            "genre": "Nonfiction, Psychology, Self-Help",
+            "imageUrl": "https://example-image.com/quiet_cover.jpg",
+            "description": "Challenges the bias towards extroversion, exploring the strengths and values of introverts.",
+            "pageCount": 352,
+            "isbn": "978-0307352156",
+            "publisher": "Crown Publishing",
+            "publicationYear": 2012  
+        },
+        {
+            "title": "The Immortal Life of Henrietta Lacks",
+            "author": "Rebecca Skloot",
+            "genre": "Nonfiction, Science, Medical Ethics",
+            "imageUrl": "https://example-image.com/immortal_life_of_henrietta_lacks_cover.jpg",
+            "description": "The story of a woman whose cells were taken without consent, leading to groundbreaking medical discoveries.",
+            "pageCount": 384,
+            "isbn": "978-1400052189",
+            "publisher": "Broadway Books",
+            "publicationYear": 2010 
+        }
+
+
+
+
+
+    ]
+    

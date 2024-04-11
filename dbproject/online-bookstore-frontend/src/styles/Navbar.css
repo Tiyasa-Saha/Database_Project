@@ -1,0 +1,18 @@
+.custom-navbar {
+  background-color: #333; /* Change the background color */
+}
+
+.brand {
+  font-size: 24px;
+  color: #fff; /* Change the brand color */
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #fff; /* Change the text color of Nav links */
+  margin-left: 20px; /* Adjust the margin between Nav links */
+}
+
+.icon {
+  margin-right: 5px; /* Adjust the margin between icons and text */
+}

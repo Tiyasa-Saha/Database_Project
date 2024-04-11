@@ -1,0 +1,17 @@
+/* Admin.css */
+.admin-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px; /* Add margin to the container */
+}
+
+.admin-heading {
+    margin-bottom: 20px; /* Add margin below the heading */
+    text-align: center;
+}
+
+.admin-table {
+    margin-top: 20px; /* Add margin above the table */
+    text-align: center;
+}

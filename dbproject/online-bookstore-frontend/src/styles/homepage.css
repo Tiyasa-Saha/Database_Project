@@ -1,0 +1,35 @@
+.bookcontainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Grid layout with minimum card width of 300px */
+  gap: 20px; /* Margin between cards */
+  padding: 20px; /* Padding for container */
+}
+
+  
+  /* Grid Columns */
+  .col-md-4 {
+    margin: 0; /* Reset any default margins */
+    padding: 15px; /* Add spacing between cards */ 
+  }
+  
+  /* Card Styling */
+  .card {
+    margin-bottom: 20px; /* Spacing between cards vertically */
+    border: 1px solid #e0e0e0; /* Subtle border */
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  }
+  
+  /* Optional: Card Internal Spacing */
+  .card-body { 
+    padding: 15px;  /* Adds space between content and card edge */
+  }
+
+.bookcontainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    gap: 20px;
+    align-items: end;
+}  

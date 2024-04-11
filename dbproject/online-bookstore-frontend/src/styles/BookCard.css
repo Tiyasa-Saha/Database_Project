@@ -1,0 +1,39 @@
+.book-card {
+    width: 400px;
+    padding: 10px;
+    margin-bottom: 20px; /* Add margin at the bottom for spacing between cards */
+    border: 1px solid #ddd; /* Add border for a defined boundary */
+    border-radius: 8px; /* Add border-radius for rounded corners */
+    height: 100%;
+}
+
+.book-image {
+    max-width: 140px;
+    height: 200px;
+    object-fit: contain;
+}
+
+.book-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.book-author {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin-bottom: 5px;
+}
+
+.book-price {
+    margin-bottom: 10px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
